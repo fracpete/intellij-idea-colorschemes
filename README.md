@@ -1,4 +1,4 @@
-# intellij-idea-colorschemes
+# intellijidea-colors
 Color schemes for IntelliJ IDEA
 
 ## Installation
