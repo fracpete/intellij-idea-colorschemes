@@ -3,7 +3,7 @@ Keymaps for PyCharm
 
 ## Installation
 
-* copy the file(s) into the `$HOME/.config/JetBrains/PyCharmCE---/keymaps` directory (`----` is the version of your PyCharm)
+* copy the file(s) into the `CONFIG_DIR/keymaps` directory
 * restart PyCharm
 * change the keymap under `Settings`
 
