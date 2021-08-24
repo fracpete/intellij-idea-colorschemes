@@ -1,6 +1,7 @@
-# intellijidea
+# jetbrains-config
 
-Customizations for IntelliJ IDEA (and PyCharm):
+Customizations for JetBrains IDEs:
 
-* [Colors](colors)
+* [IntelliJ IDEA](intellijidea)
+* [PyCharm](pycharm)
 

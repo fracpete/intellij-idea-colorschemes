@@ -1,4 +1,4 @@
-# intellijidea-colors
+# IntelliJ IDEA colors
 Color schemes for IntelliJ IDEA
 
 ## Installation
@@ -7,8 +7,4 @@ Color schemes for IntelliJ IDEA
 * restart IntelliJ IDEA
 * change the color scheme under `Settings`
 * IntelliJ IDEA will ask whether to switch to dark mode, cancel if you would like the project explorer and other windows to stay with light background
-
-## Other IDEs
-
-* PyCharm - works (`$HOME/.config/JetBrains/PyCharmCE----/colors`)
 
