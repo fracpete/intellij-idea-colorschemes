@@ -1,5 +1,12 @@
 <scheme name="Vim dark 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-04-17T10:57:50</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2019.3.5.0.0</property>
+    <property name="modified">2022-04-17T10:57:58</property>
+    <property name="originalScheme">Vim dark 2</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -708,6 +715,16 @@
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ce78c7" />
+      </value>
+    </option>
+    <option name="REST.FIXED">
+      <value>
+        <option name="BACKGROUND" value="5a5a63" />
+      </value>
+    </option>
+    <option name="REST.INTERPRETED">
+      <value>
+        <option name="BACKGROUND" value="5a5a63" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
